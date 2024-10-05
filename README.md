@@ -2,6 +2,9 @@
 
 Diese Online Quizfragen sind randomisiert und wurden mit [PySELL](http://pysell.com) erstellt. Die Aufgaben werden lokal im Browser angezeigt, es werden keine Daten auf Serversystemen verarbeitet. 
 
+## Eingangstest
+[Eingangstest FH NRW (2002-2016)](https://knospe.github.io/eingangstest.html)   
+
 ## Mathematik 1
 [Grundlagen](https://knospe.github.io/ba-ma1-1.html)    
 [Elementare Funktionen](https://knospe.github.io/ba-ma1-2.html)   
