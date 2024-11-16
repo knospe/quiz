@@ -4,6 +4,7 @@ Diese Online Quizfragen sind randomisiert und wurden mit [PySELL](http://pysell.
 
 ## Eingangstest
 [Eingangstest FH NRW (2002-2016)](https://knospe.github.io/eingangstest.html)   
+[Eingangstest FH NRW randomisiert (2024)](https://knospe.github.io/eingangstest-rand.html)    
 
 ## Mathematik 1
 [Grundlagen](https://knospe.github.io/ba-ma1-1.html)    
